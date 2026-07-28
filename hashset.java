@@ -1,5 +1,5 @@
 import java.util.*;
-public class hashing{
+public class hashset{
 public static void main(String[] args){
     //hash set creation
     HashSet<Integer> set = new HashSet<>();
