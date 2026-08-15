@@ -1,5 +1,4 @@
 package array.reverse;
-
 public class kth_element {
     static int[] rotate(int[] arr, int k){
         int n = arr.length;
@@ -22,5 +21,4 @@ public class kth_element {
             System.out.print(ans[i]);
         }
     }
-    
 }
