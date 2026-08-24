@@ -41,5 +41,6 @@ public class reverseArrayList {
         //sorting using Collections.sort() method
         Collections.sort(list2);
         System.out.println("Sorted ArrayList: " + list2);
+        
     }
 }
