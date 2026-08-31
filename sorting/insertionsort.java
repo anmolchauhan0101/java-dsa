@@ -1,4 +1,4 @@
-package sorting;
+
 public class insertionsort {
     static void insertionSort(int [] arr){
         int n = arr.length;
@@ -20,4 +20,3 @@ public class insertionsort {
         }
     }
 }
-git 
