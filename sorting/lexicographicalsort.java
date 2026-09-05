@@ -1,4 +1,4 @@
-public class lexicographicalsort {
+class lexicographicalsort {
     static void sortFruits(String[] fruits){
         int n = fruits.length;
         for(int i =0; i<n-1; i++){
