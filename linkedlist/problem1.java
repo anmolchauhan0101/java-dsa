@@ -1,5 +1,5 @@
 // question to find nth node from last and to delete it 
-public class ListNode{
+public class problem1{
     int val;
     ListNode next;
     ListNode() {}

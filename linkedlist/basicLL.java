@@ -1,4 +1,3 @@
-package linkedlist;
 public class basicLL {
     public static class Node{
         //data members
